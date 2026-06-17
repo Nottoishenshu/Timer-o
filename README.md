@@ -14,8 +14,6 @@ A simple and beginner-friendly Desktop Timer application built using **Python, H
 
 - Python
 - HTML5
-- CSS
-- JavaScript
 
 ##  How to Run the Project
 Install Python on your computer.
