@@ -1,5 +1,5 @@
 # Timer-o
-A simple and beginner-friendly Desktop Timer application built using **Python, HTML, and CSS**. This project allows users to start, pause, and reset a timer with a clean and minimal interface. It was created as a learning project while exploring Python and web development concepts.
+A simple and beginner-friendly Desktop Timer application built using **Python, HTML, and CSS**. This project allows users to start, pause, and reset a timer with a clean and minimal interface. It is created as a learning project while exploring Python and web development concepts.
 
 #  Features
 - live clock
